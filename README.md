@@ -1,9 +1,6 @@
 # U.S. Road Accidents Analysis
-<<<<<<< HEAD:README.md
+
 #### ML Engineer Details
-=======
-####ML Engineer Details
->>>>>>> 1337f7d43b9bc358b2bc62381b7e01683306bf42:README
 - Name: Aswini R
 - Phone: +919585598626
 - Email: aswiniravichandra99@gmail.com
