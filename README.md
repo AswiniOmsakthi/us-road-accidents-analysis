@@ -29,7 +29,7 @@ This Jupyter Notebook analyzes U.S. road accident data to uncover patterns, tren
 - Analyzing feature importance for better interpretability.
 
 ### 5. Model Extraction
-- Etracting model as .pkl file 
+- Extracting model as .pkl file 
 
 
 ## License
